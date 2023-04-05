@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **java**
 
-- 👯 I’m looking to collaborate on [Mundo Pixelmon 3](https://github.com/Mundo-Pixelmon)
+- 👯 I’m looking to collaborate on <a href="https://github.com/Mundo-Pixelmon">[Mundo Pixelmon 3]</a>
 
 - 🤝 I’m looking for help with **Spectrobes Minecraft mod**
 
