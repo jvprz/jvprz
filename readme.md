@@ -9,8 +9,8 @@
 
 - 📫 How to reach me **javierpsantos99@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="right">Connect with me:</h3>
+<p align="right">
     <a href="https://twitter.com/jprimee_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jprimee_" height="20" width="27" /></a>
     <a href="https://linkedin.com/in/jvprz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jvprz" height="20" width="27" /></a>
     <a href="https://stackoverflow.com/users/jprimee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jprimee" height="20" width="27" /></a>
@@ -18,8 +18,8 @@
     <a href="https://discord.gg/JPrimee#3974" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JPrimee#3974" height="20" width="27" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="right">Languages and Tools:</h3>
+<p align="right">
     <!-- Java backend -->
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="27" height="27"/> </a> 
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="27" height="27"/> </a>
