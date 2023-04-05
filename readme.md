@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jprimee_" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/256/twitter.png" alt="jprimee_" height="15" width="20" /></a>
+<a href="https://twitter.com/jprimee_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jprimee_" height="15" width="20" /></a>
 <a href="https://linkedin.com/in/jvprz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jvprz" height="15" width="20" /></a>
 <a href="https://stackoverflow.com/users/jprimee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jprimee" height="15" width="20" /></a>
 <a href="https://instagram.com/jvprz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jvprz_" height="15" width="20" /></a>
