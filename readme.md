@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">👋 Hello there, I'm Javier</h1>
-<h3 align="center">A passionate **junior** web developer from Spain</h3>
+<h3 align="center">A passionate <b>junior</b> web developer from Spain</h3>
 
 
 - 🌱 I’m currently learning **java**
