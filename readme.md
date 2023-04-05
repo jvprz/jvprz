@@ -7,7 +7,8 @@
 </p>
 
 <h1 align="center">👋 Hello there, I'm Javier</h1>
-<h3 align="center">A passionate web developer from Spain</h3>
+<h3 align="center">A passionate [junior] web developer from Spain</h3>
+
 
 - 🌱 I’m currently learning **java**
 
@@ -16,6 +17,7 @@
 - 🤝 I’m looking for help with **Spectrobes Minecraft mod**
 
 - 📫 How to reach me **javierpsantos99@gmail.com**
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
