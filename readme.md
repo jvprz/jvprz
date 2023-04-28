@@ -1,7 +1,7 @@
 <p align="right">
     <a href="https://twitter.com/jprimee_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jprimee_" height="20" width="27" /></a>
     <a href="https://linkedin.com/in/jvprz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jvprz" height="20" width="27" /></a>
-    <a href="https://stackoverflow.com/users/jprimee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jprimee" height="20" width="27" /></a>
+    <a href="https://stackoverflow.com/users/13748819/jprimee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jprimee" height="20" width="27" /></a>
     <a href="https://instagram.com/jvprz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jvprz_" height="20" width="27" /></a>
     <a href="https://discord.gg/JPrimee#3974" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JPrimee#3974" height="20" width="27" /></a>
 </p>
