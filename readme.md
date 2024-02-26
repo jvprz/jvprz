@@ -20,7 +20,7 @@
 
 <h3>Wanna join the adventure? Contact me <a href="mailto:javierpsantos99@gmail.com">here</a>!</h3>
 
-<h3 align="center">Languages and Tools:</h3>
+<h1>Languages and Tools:</h3>
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,mysql,html,css,bootstrap,angular,javascript,photoshop,illustrator,git,postman" />
