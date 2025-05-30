@@ -9,9 +9,13 @@
 <h1>Hi, I'm Javier</h1>
 <h3>Welcome to my GitHub playground!</h3>
 
+# About Me
+- I’m currently learning **Java** & **Angular**.
+- I have collaborated in the development of the following projects:
+  - [**Mundo Pixelmon 3**](https://github.com/Mundo-Pixelmon)
+  - [**Spectrobes Minecraft mod**](https://www.curseforge.com/minecraft/mc-mods/spectrobes-mod)
+  - Developing a mod called **Age of Machines**.
 
-- I’m currently learning **Java** & **Angular**
-- I have collaborated in the developent of <a href="https://github.com/Mundo-Pixelmon">**Mundo Pixelmon 3**</a> and <a href="https://www.curseforge.com/minecraft/mc-mods/spectrobes-mod">**Spectrobes Minecraft mod**</a>.
 
 <h3>Here you'll find:</h3>
 
