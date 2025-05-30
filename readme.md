@@ -10,11 +10,11 @@
 <h3>Welcome to my GitHub playground!</h3>
 
 # About Me
-- I’m currently learning **Java** & **Angular**.
+- I’m currently learning **Node.js**, **React**, **Java** & **Angular**.
 - I have collaborated in the development of the following projects:
   - [**Mundo Pixelmon 3**](https://github.com/Mundo-Pixelmon)
   - [**Spectrobes Minecraft mod**](https://www.curseforge.com/minecraft/mc-mods/spectrobes-mod)
-  - Developing [**Age of Machines Mod**](https://github.com/jvprz/age-of-machines).
+  - [**Age of Machines Mod**](https://github.com/jvprz/age-of-machines).
 
 
 <h3>Here you'll find:</h3>
