@@ -13,9 +13,7 @@
 - I’m currently learning **Node.js**, **React**, **Java** & **Angular**.
 - I have collaborated in the development of the following projects:
   - [**Mundo Pixelmon 3**](https://github.com/Mundo-Pixelmon)
-  - [**Spectrobes Minecraft mod**](https://www.curseforge.com/minecraft/mc-mods/spectrobes-mod)
-  - [**Age of Machines Mod**](https://github.com/jvprz/age-of-machines).
-
+  - [**Spectrobes reforged (1.21.1 Neoforge Minecraft Mod)**](https://www.curseforge.com/minecraft/mc-mods/spectrobes-mod)
 
 <h3>Here you'll find:</h3>
 
@@ -30,3 +28,4 @@
     <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,mysql,html,css,bootstrap,angular,javascript,photoshop,illustrator,git,postman" />
   </a>
 </p>
+
